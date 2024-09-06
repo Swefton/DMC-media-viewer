@@ -1,3 +1,8 @@
+# Get Capsule Image
+https://steamdb.info/app/553850/info/
+
+Metadata > Assets > library_assets > library_capsule 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
