@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.search-input {
+  width: 15vw;  /* 15% of the viewport width */
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 25px;  /* Rounded corners */
+  font-size: 1em;
+  margin: 20px auto;  /* Center it vertically with auto margins */
+  display: block;  /* Ensure it's a block element to center */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.game-library {
+  display: flex;
+  flex-wrap: wrap;
+}
