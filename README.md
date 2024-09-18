@@ -1,7 +1,8 @@
 # Get Capsule Image
-https://steamdb.info/app/553850/info/
 
-Metadata > Assets > library_assets > library_capsule 
+[steamgrid website](https://www.steamgriddb.com/)
+
+[steamgrid api](https://www.steamgriddb.com/api/v2)
 
 # Getting Started with Create React App
 
